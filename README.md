@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### 👨‍💻About Me
-- 🏛️ I’m a freshmen at Maharaja Agrasen Institute Of Technology (MAIT),Delhi.
+- 🏛️ I’m a freshman at Maharaja Agrasen Institute Of Technology (MAIT),Delhi.
 - 👀 I’m a noob in technology but pro in BGMI.
 - ⚡ Documenting my journey of becoming a pro in tech on github.
 - 🌱 I’m currently learning Java.
